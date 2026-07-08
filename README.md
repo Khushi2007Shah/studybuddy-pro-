@@ -1,7 +1,7 @@
 ---
 title: StudyBuddy Pro
 emoji: 📚
-colorFrom: orange
+colorFrom: pink
 colorTo: pink
 sdk: gradio
 sdk_version: "5.9.1"
