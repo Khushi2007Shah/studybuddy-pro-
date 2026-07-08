@@ -15,6 +15,8 @@ pinned: false
 **Problem Statement:** PS2 — StudyBuddy Pro (Medium Difficulty)
 
 🔗 **Live Demo:** https://huggingface.co/spaces/Khushi2007Shah/studybuddy-pro
+   https://drive.google.com/file/d/1KY42qTiCSBDGK9VKxIVP5pvW91hcqWiM/view?usp=drive_link
+   
 
 ---
 
